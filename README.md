@@ -5,7 +5,7 @@
 - 👯 During my training I enjoyed Web visualizations, Dashboarding, and using Tableau the most.
 - 🤔 I’m looking forward to any form of collaboration
 - ⚡ Fun facts: coming soon!!!
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/portia-a/)!
+- 📫 Here is how to reach me:  [LinkedIn](https://www.linkedin.com/in/portia-a/)!
 
 - Check out my projects [here!](https://github.com/Posh007?tab=repositories)!
 
