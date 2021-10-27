@@ -1,4 +1,4 @@
-### Hi there, I am Portia  👋
+### Hi there, I'm Portia, an aspiring Data Analyst  👋
 
 - 🔭 I’m currently working on improving my skills in various aspects including: VBA, Python, SQL, MongoDB, ETL, APIs, HTML/CSS, Javascript, Web Scraping,  Tableau, Machine Learning and Big Data
 - 🌱 I’m also learning how to effectively tell stories through data analysis using Python, SQL, Javascript and Tableau
