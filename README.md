@@ -1,6 +1,6 @@
 ### Hi there, I am Portia  👋
 
-<!--
+
 **Posh007/Posh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on improving my skills in various aspects including: VBA, Python, SQL, MongoDB, ETL, APIs, HTML/CSS, Javascript, Web Scraping,  Tableau, Machine Learning and Big Data
