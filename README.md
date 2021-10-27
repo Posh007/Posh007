@@ -4,7 +4,7 @@
 - 🌱 I’m also learning how to effectively tell stories through data analysis using Python, SQL, Javascript and Tableau
 - 👯 During my training I enjoyed Web visualizations, Dashboarding, and using Tableau the most.
 - 🤔 I’m looking forward to any form of collaboration
-- - ⚡ Fun fact: coming soon!!!
+- ⚡ Fun facts: coming soon!!!
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/portia-a/)!
 
 - Check out my projects [here!](https://github.com/Posh007?tab=repositories)!
