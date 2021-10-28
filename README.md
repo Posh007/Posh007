@@ -7,6 +7,6 @@
 - ⚡ Fun facts: coming soon!!!
 - 📫 Here is how to reach me:  [LinkedIn](https://www.linkedin.com/in/portia-a/)!
 
-- Check out my projects [here!](https://github.com/Posh007?tab=repositories)!
+- Check out my projects and collaborations [here!](https://github.com/Posh007?tab=repositories)!
 
  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨✨
